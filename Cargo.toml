@@ -5,9 +5,6 @@ edition = "2021"
 
 [dependencies]
 
-
-[workspace]
-members = [
-    "src/cert",
-    "src/discovery"
-]
+[[bin]]
+name = "main"
+path = "main.rs"
