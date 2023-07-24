@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
+name = "cert"
+version = "0.1.0"
+
+[[package]]
+name = "discovery"
+version = "0.1.0"
+
+[[package]]
 name = "pistol"
 version = "0.1.0"
